@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @9035130034
+- 👋 Hi
 - 👀 I’m interested in ... coding 
 - 🌱 I’m currently learning ...bca
 - 💞️ I’m looking to collaborate on ...
